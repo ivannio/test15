@@ -1,0 +1,1 @@
+console.log("background color is dark khaki", 15);
